@@ -20,9 +20,13 @@ Most recently, worked as a Laboratory Analyst in the biological quality control,
 * [LinkedIn](https://www.linkedin.com/in/luiz-carlos-vieira-4582797b/)
 
 
-## Projects:
+## About this Project:
 
-* **Analizing data from Covid-19 in Brazil, with python:** https://bit.ly/3yLmdHs
+* Rosalind is a platform for learning bioinformatics and programming through problem solving.
+* Here, I show you my way to solve those problems, hoping someone could learning from it.
+* Feel here to use them.
+
+[Link para o site Rosalind](http://www.rosalind.info)
 
 
 
