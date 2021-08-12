@@ -26,7 +26,7 @@ Most recently, worked as a Laboratory Analyst in the biological quality control,
 * Here, I show you my way to solve those problems, hoping someone could learning from it.
 * Feel here to use them.
 
-[Link para o site Rosalind](http://www.rosalind.info)
+[Link to Rosalind website](http://www.rosalind.info)
 
 
 
