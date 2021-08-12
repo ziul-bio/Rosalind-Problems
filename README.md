@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-Luiz_Carlos-red.svg)](https://www.linkedin.com/in/luiz-carlos-vieira-4582797b/) [![](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-3810/) 
+[![author](https://img.shields.io/badge/author-Luiz_Carlos-red.svg)](https://www.linkedin.com/in/luiz-carlos-vieira-4582797b/) [![](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/) 
 [![Other Projects](https://img.shields.io/badge/Others-Projects-brightgreen.svg?style=flat)](https://github.com/ziul-bio?tab=repositories)
 
 
