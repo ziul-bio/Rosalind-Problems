@@ -9,8 +9,7 @@
 <sub> *Biologist* Aspiring to take up a career in bioinformatics </sub>
 
 Graduated in Biological Sciences and Master in Sciences from the Department of Cellular and Molecular Biology and Pathogenic Bioagents.
-I Worked as a Laboratory Technician (Trainne) and Researcher (Master's Student) at the Virology Research Center (USP), where he developed
-and assisted research activities.
+I Worked as a Laboratory Technician (Trainne) and Researcher (Master's Student) at the Virology Research Center (USP).
 Most recently, worked as a Laboratory Analyst in the biological quality control, performing quality control tests on viral vaccines.
 
 **Background in:** Python, Cell and molecular Biology, .
